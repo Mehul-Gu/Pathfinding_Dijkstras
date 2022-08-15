@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#Pathfinding: Dijkstras Algorithm
+
+Mehul here! Working on this in order to learn Javascript, React and more.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
