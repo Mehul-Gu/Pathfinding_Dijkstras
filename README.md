@@ -1,4 +1,4 @@
-#Pathfinding: Dijkstras Algorithm
+# Pathfinding: Dijkstras Algorithm
 
 Mehul here! Working on this in order to learn Javascript, React and more.
 
